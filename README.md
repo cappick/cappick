@@ -12,7 +12,7 @@
 
 电脑访问体验更佳！**左上角输入关键词，即刻搜索到你想要的资源~**
 
-<details>
+<!-- <details>
   <summary>👉<u>防失联请关注公众号：船长臻选</u>👇</summary>
  <p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p>
 </details>
@@ -20,8 +20,13 @@
 <details>
   <summary>👉<u>欢迎咨询船长微信：hougeaigc</u>👇</summary>
  <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
-</details>
+</details> -->
 
+👉<u>防失联请关注公众号：船长臻选</u>👇
+<p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p>
+
+👉<u>欢迎咨询船长微信：hougeaigc</u>👇
+<p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
 
 ## 分类栏目
 
