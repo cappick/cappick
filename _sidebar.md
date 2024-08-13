@@ -1,12 +1,12 @@
 - [👍**船长会员群**](data/group.md)
 
-    - [1.船长搞钱周报](data/group/gq_weekly.md)
+    - [1.船长成长日报](data/group/ff_daily.md)
 
-    - [2.船长付费周报](data/group/ff_weekly.md)
+    - [2.船长成长周报](data/group/ff_weekly.md)
+    
+    - [3.船长搞钱周报](data/group/gq_weekly.md)
 
-    - [3.船长付费日报](data/group/ff_daily.md)
-
-    - [4.船长成长通识](data/group/ff_course.md)
+    - [4.船长进阶指南](data/group/ff_course.md)
 
 - [👍**船长藏宝图**](data/resource.md)
 
@@ -28,3 +28,4 @@
     - [记忆承载](/data/gzh/记忆承载.md)
 
     - [灏泽异谈](/data/gzh/灏泽异谈.md)
+- [👍**船长私藏专栏**](data/ff_column.md)

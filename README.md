@@ -22,8 +22,8 @@
  <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
 </details> -->
 
-👉<u>防失联请关注公众号：船长臻选</u>👇
-<p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p>
+<!-- 👉<u>防失联请关注公众号：船长臻选</u>👇
+<p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p> -->
 
 👉<u>欢迎咨询船长微信：hougeaigc</u>👇
 <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
@@ -32,13 +32,13 @@
 
 ### [👍**船长会员群**](data/group.md)
 
-#### [1.船长搞钱周报](data/group/gq_weekly.md)
+#### [1.船长成长日报](data/group/ff_daily.md)
 
-#### [2.船长付费周报](data/group/ff_weekly.md)
+#### [2.船长成长周报](data/group/ff_weekly.md)
 
-#### [3.船长付费日报](data/group/ff_daily.md)
+#### [3.船长搞钱周报](data/group/gq_weekly.md)
 
-#### [4.船长成长通识](data/group/ff_course.md)
+#### [4.船长进阶指南](data/group/ff_course.md)
 
 ### [👍**船长藏宝图**](data/resource.md)
 
@@ -62,7 +62,7 @@
 
 #### [灏泽异谈](/data/gzh/灏泽异谈.md)
 
-### [👍**船长付费专栏**](data/ff_column.md)
+### [👍**船长私藏专栏**](data/ff_column.md)
 
 ***
 
