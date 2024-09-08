@@ -22,8 +22,8 @@
  <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
 </details> -->
 
-<!-- 👉<u>防失联请关注公众号：船长臻选</u>👇
-<p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p> -->
+👉<u>防失联请关注公众号：船长臻选</u>👇
+<p> <img src="/media/intro_gzh.png" alt="" width="863" data-width="863" data-height="670"></p>
 
 👉<u>欢迎咨询船长微信：hougeaigc</u>👇
 <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
