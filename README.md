@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary>👉<u>欢迎咨询船长微信：hougeaigc</u>👇</summary>
+  <summary>👉<u>欢迎咨询船长微信</u>👇</summary>
  <p> <img src="/media/intro_weixin.png" alt="" width="863" data-width="863" data-height="670"></p>
 </details> -->
 
